@@ -6,7 +6,7 @@ services:
       context: ./llm-server
       dockerfile: Dockerfile
       target: ${TARGET}
-    image: codebanesr/llm-server:latest
+    image: cusmato/llm-server:latest
 
     volumes:
       - ./llm-server:/app
@@ -39,7 +39,7 @@ services:
     build:
       context: ./llm-server
       dockerfile: worker.Dockerfile
-    image: codebanesr/workers:latest  # Add this line
+    image: cusmato/workers:beta  # Add this line
     deploy:
       replicas: 1
       
@@ -62,7 +62,7 @@ services:
     build:
       context: ./dashboard
       dockerfile: Dockerfile
-    image: codebanesr/dashboard:latest  # Add this line
+    image: cusmato/dashboard:beta  # Add this line
     ports:
       - 8000:8000
     volumes:
