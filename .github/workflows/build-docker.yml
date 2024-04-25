@@ -10,7 +10,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-latest, macos-latest]
+        os: [ubuntu-latest]
 
     steps:
     - name: Checkout Code
@@ -27,7 +27,7 @@ jobs:
         echo ${{ secrets.DOCKER_PASSWORD }} | docker login -u ${{ secrets.DOCKER_USERNAME }} --password-stdin
         docker push $IMAGE_NAME
 
-        IMAGE_NAME="opencopilot/${{ matrix.os }}-llm-server"
+        IMAGE_NAME="cusmato/${{ matrix.os }}-llm-server"
         docker buildx create --use
         docker buildx build --platform linux/amd64,linux/arm64 -t $IMAGE_NAME llm-server/
         echo ${{ secrets.DOCKER_PASSWORD }} | docker login -u ${{ secrets.DOCKER_USERNAME }} --password-stdin
