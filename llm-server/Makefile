@@ -1,5 +1,5 @@
 # Variables
-APP_NAME = opencopilot-flask-app
+APP_NAME = cusmato-copilot
 
 # Colors
 COLOR_RESET = \033[0m
