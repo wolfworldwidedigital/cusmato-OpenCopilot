@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "OpenCopilot Docs",
+  "name": "CusmatoCopilot Docs",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
