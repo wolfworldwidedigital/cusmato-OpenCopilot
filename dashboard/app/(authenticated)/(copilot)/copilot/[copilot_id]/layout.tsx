@@ -121,7 +121,7 @@ export default function CopilotLayout({ children, params }: Props) {
                   </DropdownMenuItem>
                   <DropdownMenuItem asChild>
                     <Link
-                      href="https://github.com/openchatai/OpenCopilot/issues/new/choose"
+                      href="https://github.com/cusmato/cusmato-OpenCopilot/issues/new/choose"
                       target="_blank"
                     >
                       Raise a GitHub issue

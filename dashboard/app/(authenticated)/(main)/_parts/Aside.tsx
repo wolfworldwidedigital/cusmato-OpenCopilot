@@ -35,7 +35,7 @@ export default function Aside() {
           </Tooltip>
           <Tooltip content={<>Tutorials</>} side="right">
             <Link
-              href="https://github.com/openchatai/opencopilot"
+              href="https://github.com/cusmato/cusmato-OpenCopilot"
               target="_blank"
               className={cn("hover:text-primary text-accent-foreground/50 hover:bg-accent", buttonVariants({ size: "icon", variant: "link" }))}
             >

@@ -9,7 +9,7 @@ Get 1:1 support, Join the community (NEW!!)
 
 
 
-<img width="1445" alt="image" style="border-radius:20px" src="https://github.com/openchatai/OpenCopilot/assets/32633162/340d174b-6ddd-452f-a66d-6c5567cc4583">
+<img width="1445" alt="image" style="border-radius:20px" src="https://github.com/cusmato/cusmato-OpenCopilot/assets/32633162/340d174b-6ddd-452f-a66d-6c5567cc4583">
 
 
 **Documentation [available here](https://docs.opencopilot.so)**
@@ -84,7 +84,7 @@ Once the installation is complete, you can access the OpenCopilot console at htt
 
 
 
-[![IMAGE ALT TEXT](https://github.com/openchatai/OpenCopilot/assets/32633162/edebbaa6-eba5-4f72-b88d-cf0d690fffa8)](http://www.youtube.com/watch?v=HVvbY7A7lIQ "Video Title")
+[![IMAGE ALT TEXT](https://github.com/cusmato/cusmato-OpenCopilot/assets/32633162/edebbaa6-eba5-4f72-b88d-cf0d690fffa8)](http://www.youtube.com/watch?v=HVvbY7A7lIQ "Video Title")
 
 
 (OpenCopilot is not affiliated with Shopify, and they do not use OpenCopilot, it's just a demo of what copilots are capable of)
@@ -113,14 +113,14 @@ Our goal is to empower every SaaS product with the ability to have their own AI 
 ## 🛣️ Teach the copilot via flows:
 Most of the time, the copilot can figure out what actions to execute when the user requests something, but in case there is a complex flow, you can define it to help the copilot:
 
-<img width="1453" alt="image 2" src="https://github.com/openchatai/OpenCopilot/assets/32633162/81cb899c-0200-40c6-bc2f-4fe49e112085">
+<img width="1453" alt="image 2" src="https://github.com/cusmato/cusmato-OpenCopilot/assets/32633162/81cb899c-0200-40c6-bc2f-4fe49e112085">
 
 
 
 ## 🛣️ Embed on your app in a few lines of code
 Less than <10 lines of codes to implement on your web app or desktop app
 
-<img width="1445" alt="image" src="https://github.com/openchatai/OpenCopilot/assets/32633162/d2ad2597-9de2-4177-b894-7ce92dfd1fcd">
+<img width="1445" alt="image" src="https://github.com/cusmato/cusmato-OpenCopilot/assets/32633162/d2ad2597-9de2-4177-b894-7ce92dfd1fcd">
 
 
 

@@ -14,7 +14,7 @@
   "topbarLinks": [
     {
       "name": "GitHub",
-      "url": "https://github.com/openchatai/opencopilot"
+      "url": "https://github.com/cusmato/cusmato-OpenCopilot"
     }
   ],
   "topbarCtaButton": {
@@ -25,11 +25,11 @@
     {
       "name": "Changelog",
       "icon": "list",
-      "url": "https://github.com/openchatai/opencopilot/releases"
+      "url": "https://github.com/cusmato/cusmato-OpenCopilot/releases"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/openchatai/opencopilot",
+      "url": "https://github.com/cusmato/cusmato-OpenCopilot",
       "icon": "github"
     }
   ],

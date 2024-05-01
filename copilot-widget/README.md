@@ -57,4 +57,4 @@ It's a simple React application that can be used in any webpage as a widget. To 
 
 2. Type your message and press enter to send it.
 
-<img width="394" alt="OpenCopilot widget" src="https://github.com/openchatai/OpenCopilot/assets/32633162/77b30faa-c59e-4a3a-821a-d14a61a49a65">
+<img width="394" alt="OpenCopilot widget" src="https://github.com/cusmato/cusmato-OpenCopilot/assets/32633162/77b30faa-c59e-4a3a-821a-d14a61a49a65">
