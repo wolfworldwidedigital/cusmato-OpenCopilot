@@ -81,7 +81,7 @@ services:
     command: --character-set-server=utf8mb4 --collation-server=utf8mb4_general_ci
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: opencopilot
+      MYSQL_DATABASE: CusmatoCopilot
       MYSQL_USER: dbuser
       MYSQL_PASSWORD: dbpass
     volumes:
